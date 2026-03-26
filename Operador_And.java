@@ -3,7 +3,7 @@ la condicion es: para que una persona pueda entrar a la montaña
 debe de tener minimo 12 años de edad, debe de medir igual o mas
 de 1.50 de estatura y su pase debe de ser VIP */
 
-public class Variables {
+public class Operador_And {
     public static void main(String[] args) {
 //Datos de la persona
         var edad = 14;
